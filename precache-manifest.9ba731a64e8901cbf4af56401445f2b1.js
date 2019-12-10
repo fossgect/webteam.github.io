@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72e6885bd4ba6d0ebba242d09faa499d",
+    "revision": "8d9e2432a3495bc5169e25253e371ad6",
     "url": "/webteam.github.io/index.html"
   },
   {
-    "revision": "bb8ef86716f5e58c1dad",
-    "url": "/webteam.github.io/static/css/main.6e4f933f.chunk.css"
+    "revision": "b488dd906f0563e0199b",
+    "url": "/webteam.github.io/static/css/main.15902456.chunk.css"
   },
   {
     "revision": "b36df4ffc8500d6ac2a7",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webteam.github.io/static/js/2.87f0119c.chunk.js.LICENSE"
   },
   {
-    "revision": "bb8ef86716f5e58c1dad",
-    "url": "/webteam.github.io/static/js/main.530e6186.chunk.js"
+    "revision": "b488dd906f0563e0199b",
+    "url": "/webteam.github.io/static/js/main.d1865904.chunk.js"
   },
   {
     "revision": "09af55e36db008fda899",
     "url": "/webteam.github.io/static/js/runtime-main.2a331766.js"
   },
   {
-    "revision": "c36298e42559ae117696aab1ef89d710",
-    "url": "/webteam.github.io/static/media/web2.c36298e4.jpeg"
+    "revision": "5b9b92fc4695233204e5deaf8fada0b0",
+    "url": "/webteam.github.io/static/media/github.5b9b92fc.svg"
   }
 ]);
